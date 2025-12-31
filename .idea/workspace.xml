@@ -28,10 +28,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="061c7647-8174-4e95-9335-73c168374533" name="Changes" comment="Premier commit, mise en place de la structure du projet. Avec le nom des principales fonctions">
+    <list default="true" id="061c7647-8174-4e95-9335-73c168374533" name="Changes" comment="fix erreur">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Progress/count.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +115,7 @@
       <workItem from="1766752762676" duration="5176000" />
       <workItem from="1766919721497" duration="5793000" />
       <workItem from="1767091808631" duration="3925000" />
-      <workItem from="1767096096793" duration="7882000" />
+      <workItem from="1767096096793" duration="8273000" />
     </task>
     <task id="LOCAL-00001" summary="Premier commit, mise en place de la structure du projet. Avec le nom des principales fonctions">
       <option name="closed" value="true" />
@@ -127,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767187861703</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fix erreur">
+      <option name="closed" value="true" />
+      <created>1767189781654</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767189781654</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +157,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Premier commit, mise en place de la structure du projet. Avec le nom des principales fonctions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Premier commit, mise en place de la structure du projet. Avec le nom des principales fonctions" />
+    <MESSAGE value="fix erreur" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix erreur" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
